@@ -48,4 +48,4 @@ Now your APIs are ready for use. You can see API information from there
 
 
 # Setup
-
+![alt text](https://github.com/krishnilak/getPayments/blob/master/2.png)
